@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/Chess.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/Chess.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/Chess.cpp"
+},
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/Texture.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/Texture.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/Texture.cpp"
+},
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/VertexArray.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/VertexArray.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/VertexArray.cpp"
+},
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/Vertexbuffer.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/Vertexbuffer.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/Vertexbuffer.cpp"
+},
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/indexBuffer.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/indexBuffer.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/indexBuffer.cpp"
+},
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/renderer.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/renderer.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/renderer.cpp"
+},
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/vertexArrayLayout.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/vertexArrayLayout.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/vertexArrayLayout.cpp"
+},
+{
+  "directory": "/Users/lucifer/Desktop/大二下/wuziqi/build",
+  "command": "/usr/bin/clang++  -I/Users/lucifer/Desktop/大二下/wuziqi/depends/include -I/usr/local/Cellar/glew/2.2.0_1/include -I/Users/lucifer/Desktop/大二下/wuziqi/src/vendor -arch x86_64 -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo -framework CoreGraphics -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/GLChess.dir/src/vendor/stb_image/stb_image.cpp.o -c /Users/lucifer/Desktop/大二下/wuziqi/src/vendor/stb_image/stb_image.cpp",
+  "file": "/Users/lucifer/Desktop/大二下/wuziqi/src/vendor/stb_image/stb_image.cpp"
+}
+]
